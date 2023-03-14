@@ -1,7 +1,7 @@
 {
   "name": "@bas27/testlib",
   "version": "1.0.0",
-  "description": "публикуем пакеты и знакомимся с тем, как публикуется большинство пакетов, с которыми будем работать",
+  "description": "",
   "main": "dist/index.js",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
