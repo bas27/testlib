@@ -1,0 +1,15 @@
+{
+  "name": "@bas27/testlib",
+  "version": "1.0.0",
+  "description": "публикуем пакеты и знакомимся с тем, как публикуется большинство пакетов, с которыми будем работать",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander B",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bas27/testlib.git"
+  },
+  "license": "ISC"
+}
